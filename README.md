@@ -12,6 +12,8 @@ This Texture pack was made thanks to this amazing [texture pack template](https:
 Just copy the amelia's_cyclops folder into your Balatro mods folder, and you're done
 (You just need to remember that [Steamodded](https://github.com/Steamodded/smods) is a __requirement__, not an option)
 
+If you did everything correctly, you should get greeted by a cyclop Joker, and in the Steamodded mods configuration, you should see this:
+
 <img width="613" height="63" alt="image" src="https://github.com/user-attachments/assets/4ec504e3-fcbf-4964-90e4-c52d8a991059" />
 
 ### I hope you enjoy
