@@ -1,7 +1,7 @@
 # Amelia-s-Balatro-Cyclops
 What If Balatro was made by a cyclop? The Jokers themselves would be cyclops, for one!
 
-<img width="276" height="372" alt="image" src="https://github.com/user-attachments/assets/df68ad41-9c03-44ed-8aed-a68e4c549c6b" />
+<img width="2048" height="372" alt="image" src="https://github.com/user-attachments/assets/7272053a-38df-4ef7-8e43-a6ee001ca039" />
 
 # Yes, I spent one evening changing all jokers into cyclops
 I changed __93__ out of 150 Jokers, to make them aligned with the enCYCLOPedia of cyclop looks (I made them all have 1 eye (well, technically just 0.98924731182795698924731182795699 eves, but that's unimportant))
