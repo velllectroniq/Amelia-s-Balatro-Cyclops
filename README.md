@@ -7,8 +7,10 @@ What If Balatro was made by a cyclop? The Jokers themselves would be cyclops, fo
 I changed __93__ out of 150 Jokers, to make them aligned with the enCYCLOPedia of cyclop looks (I made them all have 1 eye (well, technically just 0.98924731182795698924731182795699 eves, but that's unimportant))
 __I hope you enjoy__
 
-This Texture pack was made thanks to the amazing [Template][https://github.com/emihead/balatro-texture-pack-template]. Thank you very much.
+This Texture pack was made thanks to the amazing [Template](https://github.com/emihead/balatro-texture-pack-template). Thank you very much.
 
 # How to install?
 Just copy this folder into your Balatro mods folder, and you're done
-(You just need to remember that [Steamodded][https://github.com/Steamodded/smods] is a _requirement_, not an option)
+(You just need to remember that [Steamodded](https://github.com/Steamodded/smods) is a _requirement_, not an option)
+
+<img width="613" height="63" alt="image" src="https://github.com/user-attachments/assets/4ec504e3-fcbf-4964-90e4-c52d8a991059" />
